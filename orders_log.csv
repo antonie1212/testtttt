@@ -1,0 +1,29 @@
+ts,req_id,user_id,username,full_name,category,title,desc,budget_raw,deadline,deadline_iso,contact,status,assigned_dev_ids,started_ts,notes,topic_id,topic_link
+2025-08-14T23:04:40,448E0F2F,1380822879,anton_schka,Antonie ',Website / Landing,gdgdf,dsfdsf,10,6,,/admin,in_lucru,,,[2025-08-14T23:07:11] clientul a zis ca asteapta mana maine,,
+2025-08-14T23:22:02,38BA5451,6602247872,catallina_l,Catalina,Website / Landing,Cafeaua te aștepta,Link,Mdl,5 zile,,Username,in_lucru,,,asignat din UI,,
+2025-08-14T23:36:40,3B5F71F6,1380822879,anton_schka,Antonie ',Script Python / JS,gggggfg,fd,1234567,4,,/admin,in_lucru,,,asignat din UI,,
+2025-08-14T23:51:08,AB78FCF4,1380822879,anton_schka,Antonie ',Network Admin,fdgdg,hghf,456,4,,/admin,nou,,,,,
+2025-08-14T23:52:38,968F2F97,1380822879,anton_schka,Antonie ',Casino Bot (puncte virtuale),wqr,gdge,456436,dfhhf,,/admin,nou,,,,,
+2025-08-14T23:53:49,F07ADC6C,1380822879,anton_schka,Antonie ',Network Admin,dhfdfh,gfhfgthj,6346,uyfuy,,/admin,nou,,,,,
+2025-08-14T23:56:10,53FB7142,1380822879,anton_schka,Antonie ',Casino Bot (puncte virtuale),wefwg,ferfe,43435,4,,/admin,nou,,,,,
+2025-08-15T00:09:04,F64E0328,1380822879,anton_schka,Antonie ',Website / Landing,dsgsgdf,sfsf,43,342,,dfchdfhfd,finalizat,,,[2025-08-15T00:09:59] (dev @anton_schka) hjfadfsa,,
+2025-08-15T13:42:29,50D68A18,1380822879,anton_schka,Antonie ',💼 Servicii pentru Afaceri,Hdjdh,Dhdhd,3000,10zile,,069070041,nou,,,,,
+2025-08-15T13:56:08,B93FB637,1380822879,anton_schka,Antonie ',🎨 Design & Graphics,coffe for my mother,jjj,300EUR,10,,dddd,finalizat,,,asignat din UI,,
+2025-08-15T17:28:40,0EFB7E23,1380822879,anton_schka,Antonie ',🎨 Design & Grafică,fsfsdfsf,sfsdff,500$,10 zile,2025-08-25,069070041,finalizat_confirmat,1380822879,2025-08-15T17:29:26,asignat din UI,,
+2025-08-15T18:29:50,FBD32C2C,1380822879,anton_schka,Antonie ',Website,xzxzz,zczxczc,300 MDL,10 zile,2025-08-25,antonie,finalizat_confirmat,1380822879,2025-08-15T18:30:52,[2025-08-15T18:31:37] (dev @anton_schka) Progres raportat: 25%,,
+2025-08-15T18:40:57,7C38AA5E,1380822879,anton_schka,Antonie ',Netadmin,434534,fdf,343 EUR,10 zile,2025-08-25,jkds,finalizat,1380822879,2025-08-15T18:42:08,"[2025-08-15T18:42:54] (dev @anton_schka) Progres raportat: 25%
+[2025-08-15T18:42:57] (dev @anton_schka) Progres raportat: 25%
+[2025-08-15T18:42:59] (dev @anton_schka) Progres raportat: 50%",,
+2025-08-15T18:50:43,045214B0,1380822879,anton_schka,Antonie ',Netadmin,dfsdgd,bbfbfg,4567 EUR,10 zile,2025-08-25,djbncdi,finalizat_confirmat,1380822879,2025-08-15T18:51:38,"[2025-08-15T18:51:48] (dev @anton_schka) Progres raportat: 25%
+[2025-08-15T18:51:54] (dev @anton_schka) Progres raportat: 50%
+[2025-08-15T18:51:56] (dev @anton_schka) Progres raportat: 75%",,
+2025-08-15T19:50:47,16556ADB,1380822879,anton_schka,Antonie ',Website,FGDFG,BBDHB,567 EUR,10 Zile,2025-08-25,ddsgs,finalizat_confirmat,1380822879,2025-08-15T19:53:12,"[2025-08-15T19:53:24] (dev @anton_schka) Progres raportat: 25%
+[2025-08-15T19:53:27] (dev @anton_schka) Progres raportat: 50%
+[2025-08-15T19:53:30] (dev @anton_schka) Progres raportat: 75%",,
+2025-08-15T20:36:30,B880ED62,1380822879,anton_schka,Antonie ',Website,dfsfsfsdfds,fsfsf,23432 EUR,10 zile,2025-08-25,ubsigs,finalizat_confirmat,1380822879,2025-08-15T20:37:43,"[2025-08-15T20:38:04] (dev @anton_schka) Progres raportat: 25%
+[2025-08-15T20:38:08] (dev @anton_schka) Progres raportat: 50%
+[2025-08-15T20:38:09] (dev @anton_schka) Progres raportat: 75%",104,https://t.me/c/2790213050/104
+2025-08-15T22:00:04,CB510495,6450554817,,Nina Di,Website,Noapte,Functii,300 MDL,5 zile,2025-08-20,Telefon,finalizat_confirmat,1380822879,2025-08-15T22:01:54,"[2025-08-15T22:02:41] (dev @anton_schka) Progres raportat: 25%
+[2025-08-15T22:02:43] (dev @anton_schka) Progres raportat: 50%
+[2025-08-15T22:02:46] (dev @anton_schka) Progres raportat: 75%",114,https://t.me/c/2790213050/114
+2025-08-16T13:42:53,D5A60E8D,1380822879,anton_schka,Antonie ',🎉 Cadouri & Evenimente,dfsdfs,fsfsd,100 EUR,10 zile,2025-08-26,dsgrfdg,in_lucru,1380822879,2025-08-16T13:43:19,,124,https://t.me/c/2790213050/124

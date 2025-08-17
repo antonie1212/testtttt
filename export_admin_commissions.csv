@@ -1,0 +1,6 @@
+ts,req_id,dev_id,dev_username,amount,currency,note
+2025-08-15T18:34:43,FBD32C2C,ADMIN,admin,21.00,MDL,commission 10.0%
+2025-08-15T18:53:15,045214B0,ADMIN,admin,319.70,EUR,commission 10.0%
+2025-08-15T19:54:12,16556ADB,ADMIN,admin,39.70,EUR,commission 10.0%
+2025-08-15T20:40:17,B880ED62,ADMIN,admin,4921.20,EUR,commission 30.0%
+2025-08-15T22:04:10,CB510495,ADMIN,admin,63.00,MDL,commission 30.0%
